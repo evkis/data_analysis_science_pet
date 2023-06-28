@@ -11,7 +11,7 @@ Based on the data it is necessary to answer following questions:
 
 ### Keywords
 
-gamedev, internet shops, marketing analysis, EDA, descriptive statistics, statistical hypotheses analysis, t-test
+internet services, marketing analysis, EDA, descriptive statistics, unit economics, LTV, ROI, retention, conversion, users profile, cohort analysis, CAC, lifetime
 
 ### Stack
 
@@ -19,32 +19,16 @@ python, pandas, numpy,matplotlib
 
 ### Input Data 
 
-Analysis for  an online store that sells computer games all over the world. Historical data on game sales, user and expert ratings, genres and platforms (for example, Xbox or PlayStation) are available from open sources. It is needed to be identify the patterns that determine the success of the game. This will allow  to bet on a potentially popular product and plan advertising campaigns.
+Data on users attracted from May 1 to October 27, 2019:
 
-Here is the data up to 2016. Let's imagine that it's December 2016, and you're planning a campaign for 2017. We need to work out the principle of working with data. It does not matter whether you forecast sales for 2017 according to 2016 data or 2027 according to 2026 data.
-*Input file*
+server log with data about users' visits (visits_info_short.csv file): User Id, Region, Device, Channel, Session Start, Session End;
 
- games.csv
- 
-*Description*
+purchases for the period (file orders_info_short.csv): User Id, Event Dt — event date, Revenue;
 
-- *Name* — name of the game;
-- *Platform* — platform;
-- *Year_of_Release* — year of release;
-- *Genre* — genre of the game;
-- *NA_sales* — sales in North America (million dollars);
-- *EU_sales* — sales in Europe Union (million dollars);
-- *JP_sales* — sales in  Japan (million dollars);
-- *Other_sales* — sales in other countries (million dollars);
-- *Critic_Score* — critic score (max 100);
-- *User_Score* — user score (max 10);
-- *Rating* — ESRB rating(Entertainment Software Rating Board).
+advertising expenses (file costs_info_short.csv): Channel — identification of the advertising source,Dt — date of the advertising campaign, Costs — costs of advertising campaign.
 
 ### Conclusion
 
-The parameters determining the success of the game in different regions of the world are revealed.
-Based on this, a report has been prepared for a computer game store for planning
-advertising campaigns. Data preprocessing and analysis were carried out. The current
-period for analysis is selected. Portraits of users of each region have been compiled.
-Hypotheses have been tested: the average user ratings of the Xbox One and PC platforms are the same;
-the average user ratings of the Action and Sports genres are different. The Student's criterion for independent samples was used in the analysis.
+The data from app was analyzed.
+Various metrics were calculated, cohort analysis was used: LTV, CAC, Retention rate, DAU, WAU, MAU, etc. Previously written metric calculation functions were used. 
+conclusions have been drawn based on the data obtained.
