@@ -1,5 +1,5 @@
 ## Mobile application profit loss analysis
-[Link](https://github.com/evkis/data_analysis_science_pet/blob/main/patterns_that_determine_the_success_of_games/03_patterns_that_determine_the_success_of_games_en.ipynb)
+[Link](https://github.com/evkis/data_analysis_science_pet/blob/main/04_mobile_application_loss_analysis/04_application_profit_loss_analysis_en.ipynb)
 
 ### Description
 
