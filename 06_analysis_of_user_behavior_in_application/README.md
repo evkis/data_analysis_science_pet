@@ -1,4 +1,4 @@
-## Analysis of user behavior in application**
+## Analysis of user behavior in application
 [Link]()
 
 ### Description
