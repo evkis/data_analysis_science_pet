@@ -1,5 +1,5 @@
 ## Analysis of user behavior in application
-[Link]()
+[Link NBVIEWER](https://nbviewer.org/github/evkis/data_analysis_science_pet/blob/main/06_analysis_of_user_behavior_in_application/06_analysis_of_users_behavior_in_app_en.ipynb)
 
 ### Description
 
