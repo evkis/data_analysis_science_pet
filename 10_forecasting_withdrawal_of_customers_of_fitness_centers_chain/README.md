@@ -1,5 +1,5 @@
 ## Forecasting the withdrawal of customers of fitness centers chain
-[Link]()
+[Link](https://github.com/evkis/data_analysis_science_pet/blob/main/10_forecasting_withdrawal_of_customers_of_fitness_centers_chain/10_forecasting_of_fitnessclub_clients_withdrawal.ipynb)
 
 ### Description
 
