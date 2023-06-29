@@ -1,5 +1,5 @@
 ## Analysis of user behavior in application based on logs.
-[Link]()
+[Link](https://nbviewer.org/github/evkis/data_analysis_science_pet/blob/main/08_analysis_of_user_behavior_in_app_logs_based/08_analysis_of_user_behavior_in_app_logs_based_en.ipynb)
 
 ### Description
 
