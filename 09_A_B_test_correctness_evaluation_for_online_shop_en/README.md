@@ -1,5 +1,5 @@
 ## A/B-test correctness analysis evaluation for an online shop_en
-[Link NBVIEWER]()
+[Link NBVIEWER](https://nbviewer.org/github/evkis/data_analysis_science_pet/blob/main/09_A_B_test_correctness_evaluation_for_online_shop_en/09_ab_test_correctness_analysis.ipynb)
 
 ### Description
 
