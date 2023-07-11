@@ -1,5 +1,5 @@
 ## Testing General Linear Regression models
-[Link]()
+[Link](https://github.com/evkis/data_analysis_science_pet/blob/main/11_testing_glm_models/11_GLM_types_testing.ipynb)
 
 ### Description
 I take Python library Statsmodels and test few general linear regression on different free data models.
