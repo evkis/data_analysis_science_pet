@@ -1,5 +1,5 @@
 ## Human learning prediction model vs machine learning
-[Link]()
+[Link](https://github.com/evkis/data_analysis_science_pet/blob/main/12_human_learning_vs_machine_learning/12_human_learning_vs_machine_learning.ipynb)
 
 ### Description
 I will try to predict price of the care manually and then will use machine learning and will compare the quality of results.
